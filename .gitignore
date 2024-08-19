@@ -1,0 +1,6 @@
+# Environment variables
+.env
+
+# Other common exclusions
+node_modules/
+.DS_Store

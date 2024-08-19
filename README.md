@@ -23,10 +23,12 @@ For brilliant minds spawning a million ideas but forgetting which ones they actu
 
 ## 🎬 The Magic Show
 
-1. Hunts Git repos like caffeinated bloodhound
-2. Sniffs out forgotten staged changes
-3. Time-travels to last touch
-4. Presents chaos in neat, sorted list
+1. Hunts Git repos like a caffeinated bloodhound (because who doesn't love a good repo chase?)
+2. Sniffs out recent commits with the precision of a truffle pig (30 days, because who remembers what they did yesterday?)
+3. Time-travels through your commit history (no DeLorean required, just good old Git)
+4. Presents your coding chaos in a neat, sorted list (because nothing says "productive" like a list of all the repos you've neglected)
+5. Makes you question your life choices as you realize how many projects you've started (and abandoned)
+6. Gives you a perfect excuse for why you haven't finished that one project ("But look at all these other repos I've been working on!")
 
 ## 🎨 Customization
 
